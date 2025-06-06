@@ -32,8 +32,6 @@ Me chamo Carlos Junior, tenho 22 anos. Atualmente, estou cursando Sistemas de In
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
 <br/>
 <img 
     align="left" 
