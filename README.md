@@ -12,14 +12,14 @@ Me chamo Carlos Junior, tenho 22 anos. Atualmente, estou cursando Sistemas de In
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMkBp4vmuu7QujB32CgZCXg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/CarlosJuniorA?tab=followers)">
+    <a href="">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/CarlosJuniorA?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/CarlosJuniorA?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
